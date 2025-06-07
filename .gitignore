@@ -1,0 +1,18 @@
+#Virtual env
+venv_tf_310-gpu
+
+#Dataset
+images
+split_data
+
+#GenAI
+__pycache__
+gen_ai_outputs
+
+#Model
+mobilenetv2 models
+Testdata
+
+#Notebooks
+best_weights
+diagnosis_model
