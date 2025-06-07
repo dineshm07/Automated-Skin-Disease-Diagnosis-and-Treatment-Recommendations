@@ -179,7 +179,7 @@ with gr.Blocks(css=custom_css, theme=gr.themes.Soft()) as app:
         gr.Markdown("""
             <div id='footer'>
                 💻 View source on 
-                <a href="https://github.com/your-username/skin-disease-diagnosis-ai" target="_blank">GitHub</a>
+                <a href="https://github.com/dineshm07/Automated-Skin-Disease-Diagnosis-and-Treatment-Recommendations" target="_blank">GitHub</a>
             </div>
         """)
 
